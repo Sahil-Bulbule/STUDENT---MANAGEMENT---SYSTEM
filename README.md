@@ -10,7 +10,7 @@ Student Management System is a simple Python-based console application designed 
 - View All Students 
 - Search Student by Roll Number 
 - Delete Student Record  
-- Easy-to-use Menu Driven Interface
+- Easy-to-use Menu Driven Interface 
   
 ## Technologies Used :-  
    
