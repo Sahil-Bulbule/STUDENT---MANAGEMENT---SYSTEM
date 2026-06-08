@@ -7,7 +7,7 @@ Student Management System is a simple Python-based console application designed 
 ## Features :-
 
 - Add New Student
-- View All Students
+- View All Students 
 - Search Student by Roll Number
 - Delete Student Record
 - Easy-to-use Menu Driven Interface
