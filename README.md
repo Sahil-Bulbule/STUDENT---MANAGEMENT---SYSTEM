@@ -13,7 +13,7 @@ Student Management System is a simple Python-based console application designed 
 - Easy-to-use Menu Driven Interface
 
 ## Technologies Used :-
-  
+   
 - Python 3
 - Lists
 - Dictionaries
