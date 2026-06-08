@@ -12,7 +12,7 @@ Student Management System is a simple Python-based console application designed 
 - Delete Student Record  
 - Easy-to-use Menu Driven Interface
   
-## Technologies Used :- 
+## Technologies Used :-  
    
 - Python 3
 - Lists
