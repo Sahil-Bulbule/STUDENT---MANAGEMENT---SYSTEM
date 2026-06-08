@@ -3,7 +3,7 @@
 ## Project Overview :-
 
 Student Management System is a simple Python-based console application designed to manage student records. This project allows users to add, view, search, and delete student information through a menu-driven interface.  
- 
+  
 ## Features :- 
    
 - Add New Student
